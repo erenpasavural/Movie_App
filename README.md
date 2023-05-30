@@ -5,4 +5,3 @@
 
 
 https://github.com/erenpasavural/MovieApp/assets/101592634/acaf441c-51ec-493d-9967-4e4e3605b5ac
-
