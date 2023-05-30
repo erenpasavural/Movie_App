@@ -1,7 +1,7 @@
-![1](https://github.com/erenpasavural/MovieApp/assets/101592634/e1f6fc76-e670-425d-be40-30e34d2401ff)
-![2](https://github.com/erenpasavural/MovieApp/assets/101592634/42a81657-4cee-4a13-ac21-715b77e3efe2)
-![use](https://github.com/erenpasavural/MovieApp/assets/101592634/f78ceb4a-46f9-41a6-a745-473151399873)
+![1](https://github.com/erenpasavural/Movie_App/assets/101592634/ce5530d2-18a4-4292-9646-d28fbc3de039)
+![2](https://github.com/erenpasavural/Movie_App/assets/101592634/ddd034b0-963a-4089-9039-45d2349ba0fc)
+![use](https://github.com/erenpasavural/Movie_App/assets/101592634/28839f61-d560-4e6a-9396-d7c9ef597e39)
 
 
+https://github.com/erenpasavural/Movie_App/assets/101592634/0160ec9e-eb35-43c1-a33e-748e6eb677ba
 
-https://github.com/erenpasavural/MovieApp/assets/101592634/acaf441c-51ec-493d-9967-4e4e3605b5ac
