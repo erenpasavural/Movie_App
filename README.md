@@ -7,4 +7,3 @@
 
 https://github.com/erenpasavural/Movie_App/assets/101592634/0160ec9e-eb35-43c1-a33e-748e6eb677ba
 
-
